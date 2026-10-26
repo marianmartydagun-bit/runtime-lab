@@ -1,0 +1,10 @@
+
+{
+  "name": "hello-bun",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "bun index.js",
+    "dev": "bun index.js"
+  }
+}
